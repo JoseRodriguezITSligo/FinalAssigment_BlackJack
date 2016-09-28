@@ -1,0 +1,6 @@
+C:\Users\Jose\Dropbox\OOSD1\BlackJack21\BlackJack21\BlackJack21\bin\Debug\BlackJack21.exe.config
+C:\Users\Jose\Dropbox\OOSD1\BlackJack21\BlackJack21\BlackJack21\bin\Debug\BlackJack21.exe
+C:\Users\Jose\Dropbox\OOSD1\BlackJack21\BlackJack21\BlackJack21\bin\Debug\BlackJack21.pdb
+C:\Users\Jose\Dropbox\OOSD1\BlackJack21\BlackJack21\BlackJack21\obj\Debug\BlackJack21.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Dropbox\OOSD1\BlackJack21\BlackJack21\BlackJack21\obj\Debug\BlackJack21.exe
+C:\Users\Jose\Dropbox\OOSD1\BlackJack21\BlackJack21\BlackJack21\obj\Debug\BlackJack21.pdb
